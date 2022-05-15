@@ -1,0 +1,30 @@
+<iframe width="700" height="620" style="border: 0px;'
+ src="https://en.wikipedia.org/wiki/Origami#Gallery">
+
+ </iframe>
+ <h1>Crane<h1>
+  <a href="https://www.thesprucecrafts.com/traditional-Origami-Crane-2540790"
+  target="-blank">
+  <h1>Tulip Flower</h1>
+  <a href="https://www.thesprucecrafts.com/christmas-Origami-projects-4147453"
+  target="-blank">
+  <h1>Envelope<h1>
+  <a href="https://ww.thesprucecrafts.com/make-an-easy-Origami-Envelope-4094705"
+    target"_blank">
+<h1>modular_box</h1>
+<a href="https://www.thesprucecrafts.com/modular-Origami-cube-box-4082281"
+target="-blank">
+<img scr="crane.jpg" width="368" height="276">
+<img src="tulip_flower.jpg" width="368" height="276">
+<img src= "Envelop.jpg" width="368" height="276">
+<img src="modular_box.jpg" width="368" height="276">
+body {
+       text-align: center;
+       background-color: black;
+}
+#Origami1{
+        background-color:lightcoral;
+        }
+#Origami2{
+    background-color:lightcoral;
+        }
